@@ -1,0 +1,1 @@
+include ':DependencyInjection', ':EndToEnd', ':dagger', ':daggerAndroid', ':jvmtest', ':jvmtest', ':mvp_1', ':mvp_2', ':mvp_3', ':mvp_4', ':mvp_5', ':mvp_6'
